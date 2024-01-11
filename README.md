@@ -1,3 +1,3 @@
 # first_project
-author-tarun kumar kashyap
+author-tarun kumar 
 this is my first Git Respository
